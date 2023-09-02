@@ -54,5 +54,10 @@ dkms.conf
 debug/
 build/
 dist/
-nbproject/
+nbproject/private
+nbproject/Makefile-default.mk
+nbproject/Makefile-genesis.properties
+nbproject/Makefile-impl.mk
+nbproject/Makefile-local-default.mk
+nbproject/Makefile-variables.mk
 *.bak
