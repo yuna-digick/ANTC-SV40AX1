@@ -54,5 +54,4 @@ dkms.conf
 debug/
 build/
 dist/
-nbproject/
 *.bak
